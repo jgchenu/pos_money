@@ -19,3 +19,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+<br>
+<hr/>
+<h3>直接下载dist文件点开index.html可以本地运行</h3>

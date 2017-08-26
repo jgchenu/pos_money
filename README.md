@@ -23,3 +23,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 <br>
 <hr/>
 <h3>直接下载dist文件点开index.html可以本地运行</h3>
+<hr/>
+项目示例地址:http://chenjianguang.com/posmoney
